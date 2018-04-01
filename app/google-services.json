@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "456331518197",
+    "firebase_url": "https://victor-1202150100-modul6.firebaseio.com",
+    "project_id": "victor-1202150100-modul6",
+    "storage_bucket": "victor-1202150100-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456331518197:android:cab0415d1469ac1a",
+        "android_client_info": {
+          "package_name": "weekassigment.prakandro.victor_1202150100_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456331518197-gap5igfn2vs1glph0s7c89rfr2e2adfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtaE1GOFD4Q15A0seNzMJITi_jjl1NuV8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
